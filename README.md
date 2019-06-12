@@ -1,3 +1,6 @@
-# Advent of Code
+# Advent of Code 2018
 
-This repository contains my solutions for the Advent of Code. I know am pretty late to the party but will try to commit daily.
+Contains my solutions to the 2018 Advent of Code.
+
+## Note
+This is mainly me practicing random things so the solutions are not meant to be "fast" in any sense. Just simple.
