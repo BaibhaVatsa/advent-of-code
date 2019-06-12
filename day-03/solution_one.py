@@ -25,8 +25,4 @@ while not eof_reached:
                     num_overlapped += 1
     except EOFError:
         eof_reached = True
-for a in range(1000):
-    for b in range(1000):
-        print(fabric[a][b], end=' ')
-    print()
 print(num_overlapped)
